@@ -1,4 +1,4 @@
-# README for Job Analysis Notebook
+# Job Analysis Notebook
 
 Welcome to the README for the Job Analysis Notebook. This Jupyter Notebook is an innovative tool designed to automate the process of job searching and analysis. It's tailored for professionals seeking opportunities at Thomson Reuters, but with a bit of tweaking, it can adapt to any career page.
 
