@@ -99,8 +99,4 @@ The Job Analysis Notebook is a powerful blend of web scraping and AI analysis. I
       # Analysis code using OpenAI
   ```
 
-## Conclusion
-
-This notebook is more than just a script – it's a comprehensive tool for job search automation. With its mix of web scraping and AI-driven analysis, it's a perfect companion for job seekers in the tech industry. Enjoy diving into the code, customizing it, and most importantly – landing your dream job!
-
 ---
